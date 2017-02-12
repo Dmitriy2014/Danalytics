@@ -1,5 +1,3 @@
-# Danalytics
-
 ## Privacy Notice
 
 This privacy notice discloses the privacy practices for Danalytics. The purpose of the Danalytics app is to discover Instagram images and user's social activity in order to make user behavior analytics and attitude towards different products, companies etc.

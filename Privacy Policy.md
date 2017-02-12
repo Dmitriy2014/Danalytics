@@ -9,7 +9,7 @@ We do not disclose your private personal information.
 
 ## Changes to this Policy
 
-If we make a change to this policy that, in our sole discretion, is material, we will update https://github.com/Dmitriy2014/Danalytics/edit/master/Danalytics%20Privacy%20Policy.md
+If we make a change to this policy that, in our sole discretion, is material, we will update https://github.com/Dmitriy2014/Danalytics/blob/master/Privacy%20Policy.md
 
 Effective: 13th February 2017
 
